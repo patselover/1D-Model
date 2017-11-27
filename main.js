@@ -3,4 +3,4 @@ let canvas = document.createElement('canvas'),
 canvas.setAttribute('id','1dCanvas');
 $('body')[0].append(canvas);
 
-$.get('./data.csv');
+console.log($.get('./data.csv'));
