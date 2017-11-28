@@ -1,0 +1,1 @@
+Trying to create a 1D-model for simple machine learning
