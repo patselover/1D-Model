@@ -1,0 +1,11 @@
+canvas{
+    position: absolute;
+    top:0;
+    left:0;
+}
+
+input{
+    position: absolute;
+    top:50%;
+    right:25%;
+}
